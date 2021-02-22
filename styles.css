@@ -9,6 +9,13 @@ body {
     padding: 50px 0px;
 }
 
+h1 {
+    text-align: center;
+    font-size: 35px;
+
+    padding-bottom: 10px;
+}
+
 .canvas {
     width: 700px;
     height: 700px;
